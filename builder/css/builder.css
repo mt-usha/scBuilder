@@ -1,0 +1,14 @@
+body {
+	width:960px;
+	margin:0 auto;
+}
+
+#properties-all {
+	border:1px solid black;
+	width:100%;
+}
+
+#properties-deleting {
+	border:1px solid black;
+	width:100%;
+}
